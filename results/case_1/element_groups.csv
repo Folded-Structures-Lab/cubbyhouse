@@ -1,0 +1,8 @@
+name,size,grade,D,B,L,qty,batch,L_total,section_group,element_group_id
+E1,90x19,F14 Seasoned Hardwood,90,19,1835,8,1,14680,G1,E1
+E2,90x19,F14 Seasoned Hardwood,90,19,2135,15,1,32025,G1,E2
+E3,90x19,F14 Seasoned Hardwood,90,19,2735,5,1,13675,G1,E3
+E4,90x19,F14 Seasoned Hardwood,90,19,3035,13,1,39455,G1,E4
+E5,90x19,F14 Seasoned Hardwood,90,19,3935,10,1,39350,G1,E5
+E6,90x45,F5,90,45,2400,20,1,48000,G2,E6
+E7,90x35,MGP10,90,35,2400,20,1,48000,G3,E7

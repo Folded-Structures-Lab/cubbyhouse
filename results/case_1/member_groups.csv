@@ -1,0 +1,4 @@
+member_group_id,qty,L,framing_group_name,member_group_id,member_group_and_qty
+M1,25,5000,F1,M1,M1 (x25)
+M2,13,2300,F2,M2,M2 (x13)
+M3,3,5000,F3,M3,M3 (x3)

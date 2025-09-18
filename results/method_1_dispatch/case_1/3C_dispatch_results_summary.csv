@@ -1,0 +1,5 @@
+index,Available Section Group Length,Allocated Section Group Length,Stock Utilisation,Required Framing Group Length,threshold_score,Allocated Framing Groups
+G1,139185.0,137500.0,0.9878938103962353,125000.0,1.1,F1
+G2,48000.0,33000.0,0.6875,30000.0,1.1,F3
+G3,48000.0,32890.0,0.6852083333333333,29900.0,1.1,F2
+Total,235185.0,203390.0,0.8648085549673661,,,

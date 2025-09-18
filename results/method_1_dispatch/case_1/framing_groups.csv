@@ -1,0 +1,4 @@
+name,length,width,lambda_y,framing_type,design_span,span_type,quantity_type,lambda_x,min_part_length,joint_ordinates
+F1,5000,2300,1,decking,450,continuous,fill,3,500,"[0, 450, 900, 1350, 1800, 2250, 2700, 3150, 3600, 4050, 4500, 4950, 5000]"
+F2,2300,5000,1,deck_joist,1200,continuous,spaced,1,2300,"[0, 1200, 2300]"
+F3,5000,2300,2,floor_bearer,1600,single,spaced,3,200,"[0, 1600, 3200, 4800, 5000]"

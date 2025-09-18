@@ -1,0 +1,5 @@
+dataclasses_json>=0.6.0
+jsonpickle>=3.2.0
+numpy>=1.24.3
+pandas>=2.0.1
+PuLP==2.8.0
